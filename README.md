@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+I'm+Tareq)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+I'm+Tareq)](https://git.io/typing-svg)👋
 
 Computer Science student at Western University focused on **machine learning**, **computer vision**, and building **real-world systems** that actually get used.
 

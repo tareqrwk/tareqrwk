@@ -58,5 +58,8 @@ MongoDB · Git · REST APIs · Linux
 
 ## 📫 Let’s Connect
 - **Email:** tareqrwk@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/tareq-kurdiah  
+- **LinkedIn:** https://www.linkedin.com/in/tareq-kurdiah
+
+---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tareqrwk)](https://github.com/anuraghazra/github-readme-stats)
 

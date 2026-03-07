@@ -61,4 +61,4 @@ MongoDB · Git · REST APIs · Linux
 - **LinkedIn:** https://www.linkedin.com/in/tareq-kurdiah
 
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tareqrwk)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tareqrwk&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)

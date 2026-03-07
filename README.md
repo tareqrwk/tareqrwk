@@ -22,26 +22,6 @@ MongoDB · Git · REST APIs · Linux
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 ScratchSCN — AI Vehicle Damage Detection  
-**Python · OpenCV · YOLOv8 · Machine Learning**  
-- Built components of an AI system to detect scratches, dents, and paint damage on vehicles  
-- Benchmarked **SIFT vs ORB** for feature matching and image alignment  
-- Manually segmented and annotated **300+ damaged images** by damage type  
-- Trained a **YOLOv8 model** on a limited dataset, achieving **~70% mAP**  
-- Project selected for presentation at **Toronto Tech Expo 2026**
-
----
-
-### 🔹 Wash&WaxWorks — Full-Stack Booking Platform  
-**React · Node.js · MongoDB · Tailwind**  
-- Built a full-stack booking system for a car detailing business  
-- Designed REST APIs to manage bookings and customer data  
-- Improved booking conversion rate by **85%** through a streamlined user flow  
-
----
-
 ## 🎯 Currently Working On
 - Improving ML performance on **small and imperfect datasets**  
 - Building **visually rich applications** with strong UX  

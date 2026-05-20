@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="./assets/banner.gif" alt="Banner" width="1000" />
+
+<br>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=EBBCBA&background=00000000&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Tareq+%F0%9F%91%8B;CS+%40+Western+University;ML+%C2%B7+Computer+Vision+%C2%B7+Clean+Engineering)](https://git.io/typing-svg)
 
 <br>
